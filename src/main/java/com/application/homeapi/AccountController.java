@@ -9,6 +9,6 @@ public class AccountController {
 
     @RequestMapping("/home")
     public String accountController() {
-        return "Hello this is the home application";
+        return "Hello this is the home application 1";
     }
 }
