@@ -10,5 +10,4 @@ public class HomeApiApplication {
 
         SpringApplication.run(HomeApiApplication.class, args);
     }
-
 }

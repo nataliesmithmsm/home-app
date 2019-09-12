@@ -1,6 +1,5 @@
 package com.application.homeapi.domain;
 
-import com.application.homeapi.HomeApiApplication;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
